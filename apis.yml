@@ -35,7 +35,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-10-06'
 tags:
 - Company
 - Human Health
@@ -46,6 +46,10 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- url: https://www.olly.com/blogs/the-well
+  type: Blog
+- url: https://www.olly.com/blogs/the-well.atom
+  type: BlogRSS
 - type: DomainSecurity
   url: security/olly-domain-security.yml
 - type: Website
